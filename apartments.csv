@@ -1,0 +1,6 @@
+Apartment,Furnished,NrRooms,Rent,Acceptable
+1,No,2,Cheap,Yes
+2,Yes,2,Expensive,No
+3,No,3,Expensive,Yes
+4,No,2,Expensive,No
+5,Yes,3,Expensive,Yes
